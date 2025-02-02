@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mehadi-Shojib
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently Doing Bachelor of Science in Computer Science and Engineering At AIUB
+- 👀 I’m interested in getting into a Masters program.
+- 🌱 I have recently completed my Bachelor of Science in Computer Science and Engineering from AIUB
 
